@@ -74,10 +74,6 @@ body {
     flex-direction: column;
     opacity: 0.6;
 }
-.preview_image{
-    display: flex;
-    background-image: url(/images/image-header-desktop.jpg);
-}
 .right{
     width: 50%;
     display: flex;

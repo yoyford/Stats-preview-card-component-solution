@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: var(--Very-dark-blue);
 
 }
 .preview_card{

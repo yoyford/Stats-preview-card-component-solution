@@ -85,7 +85,6 @@ body {
     opacity: 0.5;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
-
 }
 @media (max-width: 883px) {
     .preview_card{
